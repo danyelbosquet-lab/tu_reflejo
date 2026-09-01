@@ -1,0 +1,43 @@
+{
+  "name": "Tu reflejo — el camino de tus números",
+  "short_name": "Tu reflejo",
+  "description": "El camino de tus números: ordená lo que entra y lo que sale, descubrí en qué se te va la plata y qué días del mes trabajás para vos.",
+  "lang": "es-AR",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#E8EBE6",
+  "theme_color": "#16211C",
+  "categories": [
+    "finance",
+    "productivity",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icons/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
